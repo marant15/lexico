@@ -1,0 +1,14 @@
+#comentario
+""" hello
+dsbnewf
+derf"""
+publico ent hhhh(){
+marwin x = verdadero;
+ent a = 1j;
+ent b = 2e100;
+ent w = 0;
+si(x){
+w = a+b;
+}
+retorno w;
+}
